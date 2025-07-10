@@ -70,13 +70,13 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="https://https://www.linkedin.com/in/vamsi-thota-47114b1a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/vamsi-thota-47114b1a4/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedi" />
   </a>
   <a href="thotavamsi7@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://https://sparkling-griffin-4e7801.netlify.app" target="_blank">
+  <a href="https://sparkling-griffin-4e7801.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
